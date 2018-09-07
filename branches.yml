@@ -1,0 +1,15 @@
+stable:
+    desc: Contains tested patch-release updates, security fixes, and general bug fixes.
+    suites:
+        - stable
+testing:
+    desc: Contains major version updates with limited testing.
+    suites:
+        - testing
+        - stable
+explosive:
+    desc: "** DO NOT USE ** Contains immediate updates reflecting newest packaging Git changes, no human testing conducted and highly experimental."
+    suites:
+        - explosive
+        - testing
+        - stable
