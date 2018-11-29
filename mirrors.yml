@@ -9,10 +9,10 @@ geekpie:
     url: https://mirrors.geekpie.org/aosc/
 lzuoss:
     desc: LZUOSS of Lanzhou University OSS Mirror
-    url: http://mirror.lzu.edu.cn/anthon/
+    url: https://mirror.lzu.edu.cn/anthon/
 nluug:
     desc: The Netherlands Local Unix User Group OSS Mirror
-    url: http://ftp.nluug.nl/ftp/os/Linux/distr/anthon/
+    url: https://ftp.nluug.nl/ftp/os/Linux/distr/anthon/
 tsukuba:
     desc: Tsukuba WIDE Public Mirror service
     url: http://ftp.tsukuba.wide.ad.jp/Linux/anthon/
