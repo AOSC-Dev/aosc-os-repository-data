@@ -16,6 +16,9 @@ nluug:
 tsukuba:
     desc: Tsukuba WIDE Public Mirror service
     url: http://ftp.tsukuba.wide.ad.jp/Linux/anthon/
+tencent:
+    desc: Tencent Open Source Mirror Site
+    url: https://mirrors.cloud.tencent.com/anthon/
 tuna:
     desc: Tsinghua University TUNA Association OSS Mirror
     url: https://mirrors.tuna.tsinghua.edu.cn/anthon/
