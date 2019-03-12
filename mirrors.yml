@@ -1,6 +1,9 @@
 origin:
     desc: AOSC main repository (hosted by BlueT, and National Chi Nan University)
     url: https://repo.aosc.io/
+cqu:
+    desc: Chongqing University OSS Mirror
+    url: https://mirrors.cqu.edu.cn/aosc/
 cqupt:
     desc: Chongqing University of Posts and Telecommunications OSS Mirror
     url: https://mirrors.cqupt.edu.cn/anthon/
