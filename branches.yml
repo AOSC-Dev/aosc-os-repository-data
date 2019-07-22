@@ -3,7 +3,7 @@ stable:
     suites:
         - stable
 stable-proposed:
-    desc: Contains a sneak peek at the latest work-in-progress updates before they're released to stable.
+    desc: Contains work-in-progress stable-branch updates awaiting further testing.
     suites:
         - stable-proposed
         - stable
