@@ -2,14 +2,21 @@ stable:
     desc: Contains tested patch-release updates, security fixes, and general bug fixes.
     suites:
         - stable
+stable-proposed:
+    desc: Contains a sneak peek at the latest work-in-progress updates before they're released to stable.
+    suites:
+        - stable-proposed
+        - stable
 testing:
     desc: Contains major version updates with limited testing.
     suites:
         - testing
+        - stable-proposed
         - stable
 explosive:
     desc: "** DO NOT USE ** Contains immediate updates reflecting newest packaging Git changes, no human testing conducted and highly experimental."
     suites:
         - explosive
         - testing
+        - stable-proposed
         - stable
