@@ -13,6 +13,13 @@ testing:
         - testing
         - stable-proposed
         - stable
+testing:
+    desc: Contains work-in-progress testing-branch updates awaiting further testing.
+    suites:
+        - testing-proposed
+        - testing
+        - stable-proposed
+        - stable
 explosive:
     desc: "** DO NOT USE ** Contains immediate updates reflecting newest packaging Git changes, no human testing conducted and highly experimental."
     suites:
