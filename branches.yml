@@ -13,7 +13,7 @@ testing:
         - testing
         - stable-proposed
         - stable
-testing:
+testing-proposed:
     desc: Contains work-in-progress testing-branch updates awaiting further testing.
     suites:
         - testing-proposed
