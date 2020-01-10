@@ -24,6 +24,7 @@ explosive:
     desc: "** DO NOT USE ** Contains immediate updates reflecting newest packaging Git changes, no human testing conducted and highly experimental."
     suites:
         - explosive
+        - testing-proposed
         - testing
         - stable-proposed
         - stable
