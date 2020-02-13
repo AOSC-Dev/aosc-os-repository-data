@@ -28,3 +28,7 @@ explosive:
         - testing
         - stable-proposed
         - stable
+rckernel:
+    desc: Contains Release Candidate Linux Kernels (and tools) as future Stable-branch updates.
+    suites:
+        - stable
