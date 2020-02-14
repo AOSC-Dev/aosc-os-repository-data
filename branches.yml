@@ -13,6 +13,7 @@ testing:
         - testing
         - stable-proposed
         - stable
+        - rckernel
 testing-proposed:
     desc: Contains work-in-progress testing-branch updates awaiting further testing.
     suites:
@@ -20,6 +21,7 @@ testing-proposed:
         - testing
         - stable-proposed
         - stable
+        - rckernel
 explosive:
     desc: "** DO NOT USE ** Contains immediate updates reflecting newest packaging Git changes, no human testing conducted and highly experimental."
     suites:
@@ -28,7 +30,10 @@ explosive:
         - testing
         - stable-proposed
         - stable
+        - rckernel
 rckernel:
     desc: Contains Release Candidate Linux Kernels (and tools) as future Stable-branch updates.
     suites:
+        - stable-proposed
         - stable
+        - rckernel
