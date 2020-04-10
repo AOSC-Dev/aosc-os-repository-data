@@ -1,15 +1,12 @@
 origin:
     desc: AOSC main repository (hosted by BlueT, and National Chi Nan University)
     url: https://repo.aosc.io/
-cqu:
-    desc: Chongqing University OSS Mirror
-    url: https://mirrors.cqu.edu.cn/aosc/
 cqupt:
-    desc: Chongqing University of Posts and Telecommunications OSS Mirror
+    desc: Chongqing University of Posts and Telecommunications OSS Mirror (Warning: stop updating)
     url: https://mirrors.cqupt.edu.cn/anthon/
 geekpie:
     desc: Geekpie Association (ShanghaiTech University) OSS Mirror
-    url: https://mirrors.geekpie.org/aosc/
+    url: https://mirrors.geekpie.club/anthon/
 lzuoss:
     desc: LZUOSS of Lanzhou University OSS Mirror
     url: https://mirror.lzu.edu.cn/anthon/
@@ -25,6 +22,18 @@ tencent:
 tuna:
     desc: Tsinghua University TUNA Association OSS Mirror
     url: https://mirrors.tuna.tsinghua.edu.cn/anthon/
+tuna4:
+    desc: Tsinghua University TUNA Association OSS Mirror
+    url: https://mirrors4.tuna.tsinghua.edu.cn/anthon/
+tuna6:
+    desc: Tsinghua University TUNA Association OSS Mirror
+    url: https://mirrors6.tuna.tsinghua.edu.cn/anthon/
 ustc:
     desc: University of Science and Technology of China OSS Mirror
     url: https://mirrors.ustc.edu.cn/anthon/
+ustc4:
+    desc: University of Science and Technology of China OSS Mirror
+    url: https://ipv4.mirrors.ustc.edu.cn/anthon/
+ustc6:
+    desc: University of Science and Technology of China OSS Mirror
+    url: https://ipv6.mirrors.ustc.edu.cn/anthon/
