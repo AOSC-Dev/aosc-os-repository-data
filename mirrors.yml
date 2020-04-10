@@ -1,5 +1,5 @@
 origin:
-    desc: AOSC main repository (hosted by National Chi Nan University)
+    desc: AOSC main repository (hosted by xTom.com)
     url: https://repo.aosc.io/
 cqupt:
     desc: Chongqing University of Posts and Telecommunications OSS Mirror (Warning: stop updating)
