@@ -3,10 +3,10 @@ origin:
     url: https://repo.aosc.io/
 origin4:
     desc: AOSC main repository (hosted by xTom.com) (IPv4 only)
-    url: https://repo.aosc.io/
+    url: https://v4.repo.aosc.io/
 origin6:
     desc: AOSC main repository (hosted by xTom.com) (IPv6 only)
-    url: https://repo.aosc.io/
+    url: https://v6.repo.aosc.io/
 cqupt:
     desc: 'Chongqing University of Posts and Telecommunications OSS Mirror (Warning: stop updating)'
     url: https://mirrors.cqupt.edu.cn/anthon/
