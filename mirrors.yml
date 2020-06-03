@@ -2,7 +2,7 @@ origin:
     desc: AOSC main repository (hosted by xTom.com)
     url: https://repo.aosc.io/
 cqupt:
-    desc: Chongqing University of Posts and Telecommunications OSS Mirror (Warning: stop updating)
+    desc: 'Chongqing University of Posts and Telecommunications OSS Mirror (Warning: stop updating)'
     url: https://mirrors.cqupt.edu.cn/anthon/
 geekpie:
     desc: Geekpie Association (ShanghaiTech University) OSS Mirror
