@@ -46,3 +46,6 @@ ustc4:
 ustc6:
     desc: University of Science and Technology of China OSS Mirror (IPv6 only)
     url: https://ipv6.mirrors.ustc.edu.cn/anthon/
+staphlb:
+    desc: Load-balancing mirror offered by Staph. aureus (DO NOT use as the only mirror)
+    url: https://s.aureus.ga/aosc/config/chance-1/
