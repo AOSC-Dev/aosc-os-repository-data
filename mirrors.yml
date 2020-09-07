@@ -58,4 +58,6 @@ hit4:
 hit6:
     desc: Harbin Institute of Technology OSS Mirror (IPv6 only)
     url: https://mirrors6.hit.edu.cn/anthon/
-    
+hexhu:
+    desc: Public Mirrors of Open-Source Software Projects by Hexhu with ❤
+    url: https://arch.hu.fo/anthon/
