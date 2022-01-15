@@ -1,0 +1,105 @@
+default = "origin"
+
+[origin]
+description = "AOSC main repository (hosted by Aperture Science Limited)"
+url = "https://repo.aosc.io/"
+
+[origin4]
+description = "AOSC main repository (hosted by Aperture Science Limited) (IPv4 only)"
+url = "https://v4.repo.aosc.io/"
+
+[origin6]
+description = "AOSC main repository (hosted by Aperture Science Limited) (IPv6 only)"
+url = "https://v6.repo.aosc.io/"
+
+[geekpie]
+description = "Geekpie Association (ShanghaiTech University) OSS Mirror"
+url = "https://mirrors.geekpie.club/anthon/"
+
+[lzuoss]
+description = "LZUOSS of Lanzhou University OSS Mirror"
+url = "https://mirror.lzu.edu.cn/anthon/"
+
+[nluug]
+description = "The Netherlands Local Unix User Group OSS Mirror"
+url = "https://ftp.nluug.nl/os/Linux/distr/anthon/"
+
+[tsukuba]
+description = "Tsukuba WIDE Public Mirror service"
+url = "http://ftp.tsukuba.wide.ad.jp/Linux/anthon/"
+
+[tencent]
+description = "Tencent Open Source Mirror Site"
+url = "https://mirrors.cloud.tencent.com/anthon/"
+
+[tuna]
+description = "Tsinghua University TUNA Association OSS Mirror"
+url = "https://mirrors.tuna.tsinghua.edu.cn/anthon/"
+
+[tuna4]
+description = "Tsinghua University TUNA Association OSS Mirror (IPv4 only)"
+url = "https://mirrors4.tuna.tsinghua.edu.cn/anthon/"
+
+[tuna6]
+description = "Tsinghua University TUNA Association OSS Mirror (IPv6 only)"
+url = "https://mirrors6.tuna.tsinghua.edu.cn/anthon/"
+
+[bfsu]
+description = "Beijing Foreign Studies University OSS Mirror (Managed by TUNA)"
+url = "https://mirrors.bfsu.edu.cn/anthon/"
+
+[ustc]
+description = "University of Science and Technology of China OSS Mirror"
+url = "https://mirrors.ustc.edu.cn/anthon/"
+
+[ustc4]
+description = "University of Science and Technology of China OSS Mirror (IPv4 only)"
+url = "https://ipv4.mirrors.ustc.edu.cn/anthon/"
+
+[ustc6]
+description = "University of Science and Technology of China OSS Mirror (IPv6 only)"
+url = "https://ipv6.mirrors.ustc.edu.cn/anthon/"
+
+[staphlb]
+description = "Load-balancing mirror offered by Staph. aureus (DO NOT use as the only mirror)"
+url = "https://s.aureus.ga/aosc/config/chance-1/"
+
+[hit]
+description = "Harbin Institute of Technology OSS Mirror"
+url = "https://mirrors.hit.edu.cn/anthon/"
+
+[hit4]
+description = "Harbin Institute of Technology OSS Mirror (IPv4 only)"
+url = "https://mirrors4.hit.edu.cn/anthon/"
+
+[hit6]
+description = "Harbin Institute of Technology OSS Mirror (IPv6 only)"
+url = "https://mirrors6.hit.edu.cn/anthon/"
+
+[hexhu]
+description = "Public Mirrors of Open-Source Software Projects by Hexhu with ❤"
+url = "https://mirror.hu.fo/anthon/"
+
+[fastly]
+description = "Fastly CDN"
+url = "https://aosc-repo.freetls.fastly.net/"
+
+[nju]
+description = "Nanjing University LUG (NJU LUG)"
+url = "https://mirror.nju.edu.cn/anthon/"
+
+[koddos]
+description = "KoDDoS"
+url = "https://mirror.koddos.net/anthon/"
+
+[koddoshk]
+description = "KoDDoS Hong Kong"
+url = "https://mirror-hk.koddos.net/anthon/"
+
+[xtom]
+description = "xTom"
+url = "https://mirror.xtom.com.hk/anthon/"
+
+[ossplanet]
+description = "OSSPlanet Mirror Server"
+url = "https://mirror.ossplanet.net/anthonos/"
