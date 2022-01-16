@@ -1,5 +1,0 @@
-main: The main repository of packages (does not need to be specified explicitly).
-opt-avx2: Optimized packages for x86-64 processors with AVX2 SIMD support.
-opt-g4: Optimized packages for PowerPC-based Macintosh G4 or newer (enabling AltiVec SIMD support).
-bsp-sunxi: Board support packages for ARMv7/AArch64 devices based on Allwinner SoCs.
-bsp-rk: Board support packages for ARMv7/AArch64 devices based on Rockchip SoCs.
