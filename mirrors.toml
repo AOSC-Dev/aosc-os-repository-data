@@ -105,5 +105,5 @@ description = "OSSPlanet Mirror Server"
 url = "https://mirror.ossplanet.net/anthonos/"
 
 [aliyun]
-description = "Alibaba Cloud  Mirror"
+description = "Alibaba Cloud Mirror"
 url = "https://mirrors.aliyun.com/anthon/"
