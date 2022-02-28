@@ -14,7 +14,7 @@ url = "https://v6.repo.aosc.io/"
 
 [geekpie]
 description = "Geekpie Association (ShanghaiTech University) OSS Mirror"
-url = "https://mirrors.geekpie.club/anthon/"
+url = "https://mirrors.shanghaitech.edu.cn/anthon/"
 
 [lzuoss]
 description = "LZUOSS of Lanzhou University OSS Mirror"
