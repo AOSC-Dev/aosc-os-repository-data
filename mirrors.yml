@@ -9,7 +9,7 @@ origin6:
     url: https://v6.repo.aosc.io/
 geekpie:
     desc: Geekpie Association (ShanghaiTech University) OSS Mirror
-    url: https://mirrors.geekpie.club/anthon/
+    url: https://mirrors.shanghaitech.edu.cn/anthon/
 lzuoss:
     desc: LZUOSS of Lanzhou University OSS Mirror
     url: https://mirror.lzu.edu.cn/anthon/
@@ -76,3 +76,6 @@ xtom:
 ossplanet:
     desc: OSSPlanet Mirror Server
     url: https://mirror.ossplanet.net/anthonos/
+aliyun:
+    desc: Alibaba Cloud Mirror
+    url: https://mirrors.aliyun.com/anthon/
