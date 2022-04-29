@@ -1,3 +1,0 @@
-[stable]
-    desc = "Contains tested updates, security fixes, and general bug fixes."
-    suites = ["stable"]
