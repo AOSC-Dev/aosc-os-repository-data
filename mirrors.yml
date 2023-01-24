@@ -79,3 +79,6 @@ ossplanet:
 aliyun:
     desc: Alibaba Cloud Mirror
     url: https://mirrors.aliyun.com/anthon/
+iscas:
+    desc: ISRC-ISCAS (CSTNET)
+    url: https://mirror.iscas.ac.cn/anthon/
