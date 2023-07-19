@@ -82,3 +82,6 @@ aliyun:
 iscas:
     desc: ISRC-ISCAS (CSTNET)
     url: https://mirror.iscas.ac.cn/anthon/
+jlu:
+    desc: Jilin University Linux User Group
+    url: http://mirrors.jlu.edu.cn/anthon/
