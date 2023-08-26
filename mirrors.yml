@@ -2,37 +2,37 @@ origin:
     desc: AOSC main repository (hosted by Aperture Science Limited)
     url: https://repo.aosc.io/
 origin4:
-    desc: AOSC main repository (hosted by Aperture Science Limited) (IPv4 only)
+    desc: AOSC main repository (hosted by Aperture Science Limited, IPv4 only)
     url: https://v4.repo.aosc.io/
 origin6:
-    desc: AOSC main repository (hosted by Aperture Science Limited) (IPv6 only)
+    desc: AOSC main repository (hosted by Aperture Science Limited, IPv6 only)
     url: https://v6.repo.aosc.io/
 geekpie:
-    desc: Geekpie Association (ShanghaiTech University) OSS Mirror
+    desc: GeekPie (ShanghaiTech University) Open Source Mirror
     url: https://mirrors.shanghaitech.edu.cn/anthon/
 lzuoss:
-    desc: LZUOSS of Lanzhou University OSS Mirror
+    desc: LZUOSS Open Source Mirror
     url: https://mirror.lzu.edu.cn/anthon/
 nluug:
-    desc: The Netherlands Local Unix User Group OSS Mirror
+    desc: Netherlands Local Unix User Group (NLUUG) OSS Mirror
     url: https://ftp.nluug.nl/os/Linux/distr/anthon/
 tsukuba:
     desc: Tsukuba WIDE Public Mirror service
     url: http://ftp.tsukuba.wide.ad.jp/Linux/anthon/
 tencent:
-    desc: Tencent Open Source Mirror Site
+    desc: Tencent Open Source Software Mirror
     url: https://mirrors.cloud.tencent.com/anthon/
 tuna:
-    desc: Tsinghua University TUNA Association OSS Mirror
+    desc: Tsinghua Open Source Mirror (TUNA)
     url: https://mirrors.tuna.tsinghua.edu.cn/anthon/
 tuna4:
-    desc: Tsinghua University TUNA Association OSS Mirror (IPv4 only)
+    desc: Tsinghua Open Source Mirror (TUNA, IPv4 only)
     url: https://mirrors4.tuna.tsinghua.edu.cn/anthon/
 tuna6:
-    desc: Tsinghua University TUNA Association OSS Mirror (IPv6 only)
+    desc: Tsinghua Open Source Mirror (TUNA, IPv6 only)
     url: https://mirrors6.tuna.tsinghua.edu.cn/anthon/
 bfsu:
-    desc: Beijing Foreign Studies University OSS Mirror (Managed by TUNA)
+    desc: Beijing Foreign Studies University Open Source Mirror
     url: https://mirrors.bfsu.edu.cn/anthon/
 ustc:
     desc: University of Science and Technology of China OSS Mirror
@@ -62,29 +62,26 @@ fastly:
     desc: Fastly CDN
     url: https://aosc-repo.freetls.fastly.net/
 nju:
-    desc: Nanjing University LUG (NJU LUG)
+    desc: NJU Mirror (Nanjing University)
     url: https://mirror.nju.edu.cn/anthon/
-koddos:
-    desc: KoDDoS
-    url: https://mirror.koddos.net/anthon/
 koddoshk:
     desc: KoDDoS Hong Kong
     url: https://mirror-hk.koddos.net/anthon/
 xtom:
-    desc: xTom
+    desc: xTom Open Source Software Mirror
     url: https://mirror.xtom.com.hk/anthon/
-ossplanet:
-    desc: OSSPlanet Mirror Server
-    url: https://mirror.ossplanet.net/anthonos/
 aliyun:
-    desc: Alibaba Cloud Mirror
+    desc: Alibaba Cloud Open Source Mirror"
     url: https://mirrors.aliyun.com/anthon/
 iscas:
-    desc: ISRC-ISCAS (CSTNET)
+    desc: ISCAS Open Source Mirror
     url: https://mirror.iscas.ac.cn/anthon/
 jlu:
-    desc: Jilin University Linux User Group
+    desc: Jilin University Open Source Mirror
     url: http://mirrors.jlu.edu.cn/anthon/
 sjtug:
-    desc: Shanghai Jiao Tong University Linux User Group
+    desc: SJTUG Mirror (Shanghai Jiao Tong University)
     url: https://mirror.sjtu.edu.cn/anthon/
+fastly:
+    desc: Fastly CDN
+    url: https://aosc-repo.freetls.fastly.net/
