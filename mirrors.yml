@@ -85,3 +85,6 @@ iscas:
 jlu:
     desc: Jilin University Linux User Group
     url: http://mirrors.jlu.edu.cn/anthon/
+sjtug:
+    desc: Shanghai Jiao Tong University Linux User Group
+    url: https://mirror.sjtu.edu.cn/anthon/
