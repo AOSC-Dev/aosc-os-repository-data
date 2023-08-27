@@ -69,7 +69,19 @@ koddoshk:
     url: https://mirror-hk.koddos.net/anthon/
 xtom:
     desc: xTom Open Source Software Mirror
+    url: https://mirror.xtom.com/anthon/
+xtom:
+    desc: xTom Open Source Software Mirror (Estonia)
+    url: https://mirror.xtom.ee/anthon/
+xtom:
+    desc: xTom Open Source Software Mirror (Germany)
+    url: https://mirror.xtom.de/anthon/
+xtom:
+    desc: xTom Open Source Software Mirror (Hong Kong)
     url: https://mirror.xtom.com.hk/anthon/
+xtom:
+    desc: xTom Open Source Software Mirror (Netherlands)
+    url: https://mirror.xtom.nl/anthon/
 aliyun:
     desc: Alibaba Cloud Open Source Mirror"
     url: https://mirrors.aliyun.com/anthon/
