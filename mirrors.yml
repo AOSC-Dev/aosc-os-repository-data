@@ -97,3 +97,6 @@ sjtug:
 fastly:
     desc: Fastly CDN
     url: https://aosc-repo.freetls.fastly.net/
+nit:
+    desc: Nanyang Institute of Technology Open Source Mirror (CIPS)
+    url: https://mirror.nyist.edu.cn/anthon/
