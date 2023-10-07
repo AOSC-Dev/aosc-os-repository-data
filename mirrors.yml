@@ -70,16 +70,16 @@ koddoshk:
 xtom:
     desc: xTom Open Source Software Mirror
     url: https://mirror.xtom.com/anthon/
-xtom:
+xtom-estonia:
     desc: xTom Open Source Software Mirror (Estonia)
     url: https://mirror.xtom.ee/anthon/
-xtom:
+xtom-germany:
     desc: xTom Open Source Software Mirror (Germany)
     url: https://mirror.xtom.de/anthon/
-xtom:
+xtom-hk:
     desc: xTom Open Source Software Mirror (Hong Kong)
     url: https://mirror.xtom.com.hk/anthon/
-xtom:
+xtom-netherlands:
     desc: xTom Open Source Software Mirror (Netherlands)
     url: https://mirror.xtom.nl/anthon/
 aliyun:
@@ -94,9 +94,6 @@ jlu:
 sjtug:
     desc: SJTUG Mirror (Shanghai Jiao Tong University)
     url: https://mirror.sjtu.edu.cn/anthon/
-fastly:
-    desc: Fastly CDN
-    url: https://aosc-repo.freetls.fastly.net/
 nit:
     desc: Nanyang Institute of Technology Open Source Mirror (CIPS)
     url: https://mirror.nyist.edu.cn/anthon/
