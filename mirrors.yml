@@ -91,3 +91,6 @@ nit:
 qvq:
     desc: QVQNetwork Open Source Mirror
     url: https://mirrors.qvq.net.cn/anthon/
+sdu:
+    desc: SDU Mirrors (Shandong University)
+    url: https://mirrors.sdu.edu.cn/anthon/
