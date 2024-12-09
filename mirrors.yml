@@ -88,9 +88,6 @@ sjtug:
 nit:
     desc: Nanyang Institute of Technology Open Source Mirror (CIPS)
     url: https://mirror.nyist.edu.cn/anthon/
-qvq:
-    desc: QVQNetwork Open Source Mirror
-    url: https://mirrors.qvq.net.cn/anthon/
 sdu:
     desc: SDU Mirrors (Shandong University)
     url: https://mirrors.sdu.edu.cn/anthon/
