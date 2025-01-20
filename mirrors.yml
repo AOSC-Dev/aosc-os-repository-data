@@ -103,3 +103,6 @@ qlut:
 pku:
     desc: PKU OSS Mirrors (Peking University)
     url: https://mirrors.pku.edu.cn/anthon/
+tencent:
+    desc: Tencent Open Source Software Mirror
+    url: https://mirrors.cloud.tencent.com/anthon/
