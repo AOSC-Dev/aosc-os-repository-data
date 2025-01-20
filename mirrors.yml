@@ -1,11 +1,11 @@
 origin:
-    desc: AOSC main repository (hosted by Aperture Science Limited)
+    desc: AOSC main repository (Aperture Science Limited)
     url: https://repo.aosc.io/anthon/
 origin4:
-    desc: AOSC main repository (hosted by Aperture Science Limited, IPv4 only)
+    desc: AOSC main repository (Aperture Science Limited, IPv4 only)
     url: https://v4.repo.aosc.io/anthon/
 origin6:
-    desc: AOSC main repository (hosted by Aperture Science Limited, IPv6 only)
+    desc: AOSC main repository (Aperture Science Limited, IPv6 only)
     url: https://v6.repo.aosc.io/anthon/
 repo-us:
     desc: AOSC main repository (United States)
@@ -35,10 +35,10 @@ tuna6:
     desc: Tsinghua Open Source Mirror (TUNA, IPv6 only)
     url: https://mirrors6.tuna.tsinghua.edu.cn/anthon/
 bfsu:
-    desc: Beijing Foreign Studies University Open Source Mirror (BFSU)
+    desc: Beijing Foreign Studies University OSS Mirror (BFSU)
     url: https://mirrors.bfsu.edu.cn/anthon/
 bfsu4:
-    desc: Beijing Foreign Studies University Open Source Mirror (BFSU, IPv4 only)
+    desc: Beijing Foreign Studies University OSS Mirror (BFSU, IPv4 only)
     url: https://mirrors4.bfsu.edu.cn/anthon/
 bfsu6:
     desc: Beijing Foreign Studies University Open Source Mirror (BFSU, IPv6 only)
