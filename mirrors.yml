@@ -10,6 +10,9 @@ origin6:
 repo-us:
     desc: AOSC main repository (United States)
     url: https://repo-us.aosc.io/anthon/
+redir:
+    desc: AOSC Automatic Redirect Mirror [TESTING] (Global)
+    url: https://redir.aosc.io/anthon/
 cernet:
     desc: CERNET mirror auto-redirection service with GeoIP optimization
     url: https://mirrors.cernet.edu.cn/anthon/
@@ -106,3 +109,6 @@ pku:
 tencent:
     desc: Tencent Open Source Software Mirror
     url: https://mirrors.cloud.tencent.com/anthon/
+sustech:
+    desc: SUSTech Open Source Mirror
+    url: https://mirrors.sustech.edu.cn/anthon/
