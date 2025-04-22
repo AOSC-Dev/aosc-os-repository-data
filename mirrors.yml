@@ -61,6 +61,15 @@ ustc6:
 staphlb:
     desc: Load-balancing mirror offered by Staph. aureus (DO NOT use as the only mirror)
     url: https://s.aureus.icu/aosc/config/chance-1/
+hit:
+    desc: Harbin Institute of Technology OSS Mirror
+    url: https://mirrors.hit.edu.cn/anthon/
+hit4:
+    desc: Harbin Institute of Technology OSS Mirror (IPv4 only)
+    url: https://mirrors4.hit.edu.cn/anthon/
+hit6:
+    desc: Harbin Institute of Technology OSS Mirror (IPv6 only)
+    url: https://mirrors6.hit.edu.cn/anthon/
 hexhu:
     desc: Public Mirrors of Open-Source Software Projects by Hexhu with ❤
     url: https://mirror.hu.fo/anthon/
