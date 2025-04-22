@@ -1,15 +1,18 @@
 origin:
-    desc: AOSC main repository (Aperture Science Limited)
+    desc: AOSC main repository (auto-redirect)
     url: https://repo.aosc.io/anthon/
 origin4:
-    desc: AOSC main repository (Aperture Science Limited, IPv4 only)
+    desc: AOSC main repository (auto-redirect) (IPv4 only)
     url: https://v4.repo.aosc.io/anthon/
 origin6:
-    desc: AOSC main repository (Aperture Science Limited, IPv6 only)
+    desc: AOSC main repository (auto-redirect) (IPv6 only)
     url: https://v6.repo.aosc.io/anthon/
 repo-us:
     desc: AOSC main repository (United States)
     url: https://repo-us.aosc.io/anthon/
+repo-hk:
+    desc: AOSC main repository (Aperture Science Limited, Hong Kong)
+    url: https://repo-hk.aosc.io/anthon/
 redir:
     desc: AOSC Automatic Redirect Mirror [TESTING] (Global)
     url: https://redir.aosc.io/anthon/
