@@ -1,0 +1,15 @@
+[main]
+description.default = "The main collection of packages"
+description.zh_CN = "主软件集"
+
+[bsp-loongarch64-nosimd]
+description.default = "Packages for LoongArch64 BSP for no-SIMD platforms"
+description.zh_CN = "用于无 SIMD 的龙架构（64 位）平台的软件包"
+
+[bsp-sunxi]
+description.default = "Packages for LoongArch64 BSP for no-SIMD platforms"
+description.zh_CN = "用于全志 (Allwinner) SoC 平台的软件包"
+
+[bsp-rk]
+description.default = "Packages for LoongArch64 BSP for no-SIMD platforms"
+description.zh_CN = "用于瑞芯微 (Rockchip) SoC 平台的软件包"
