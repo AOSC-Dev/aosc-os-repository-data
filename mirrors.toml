@@ -191,4 +191,4 @@ url = "https://mirrors.sustech.edu.cn/anthon/"
 [sysu]
 description.default = "SYSU OSS Mirrors (Sun Yat-sen University)"
 description.zh_CN = "中山大学开源软件镜像站"
-url = "https://mirrors.sustech.edu.cn/anthon/"
+url = "https://mirror.sysu.edu.cn/anthon/"
