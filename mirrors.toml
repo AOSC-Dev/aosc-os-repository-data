@@ -38,6 +38,16 @@ description.default = "LZUOSS Open Source Mirror"
 description.zh_CN = "兰州大学开源社区镜像站"
 url = "https://mirror.lzu.edu.cn/anthon/"
 
+[lzuoss4]
+description.default = "LZUOSS Open Source Mirror (IPv4 only)"
+description.zh_CN = "兰州大学开源社区镜像站（仅 IPv4）"
+url = "https://mirror4.lzu.edu.cn/anthon/"
+
+[lzuoss6]
+description.default = "LZUOSS Open Source Mirror (IPv6 only)"
+description.zh_CN = "兰州大学开源社区镜像站（仅 IPv6）"
+url = "https://mirror6.lzu.edu.cn/anthon/"
+
 [nluug]
 description.default = "Netherlands Local Unix User Group (NLUUG) OSS Mirror"
 description.zh_CN = "荷兰本地 Unix 用户组 (NLUUG) 开源镜像站"
@@ -128,15 +138,20 @@ description.default = "Nanjing University OSS Mirror (NJU Mirror)"
 description.zh_CN = "南京大学开源镜像站 (NJU Mirror)"
 url = "https://mirror.nju.edu.cn/anthon/"
 
+[nju4]
+description.default = "Nanjing University OSS Mirror (NJU Mirror, IPv4 only)"
+description.zh_CN = "南京大学开源镜像站 (NJU Mirror，仅 IPv4）"
+url = "https://ipv4.mirror.nju.edu.cn/anthon/"
+
+[nju6]
+description.default = "Nanjing University OSS Mirror (NJU Mirror, IPv6 only)"
+description.zh_CN = "南京大学开源镜像站 (NJU Mirror，仅 IPv6）"
+url = "https://ipv6.mirror.nju.edu.cn/anthon/"
+
 [xtom-estonia]
 description.default = "xTom Open Source Software Mirror (Estonia)"
 description.zh_CN = "xTom 开源镜像站（爱沙尼亚）"
 url = "https://mirror.xtom.ee/anthon/"
-
-[xtom-netherlands]
-description.default = "xTom Open Source Software Mirror (Netherlands)"
-description.zh_CN = "xTom 开源镜像站（荷兰）"
-url = "https://mirror.xtom.nl/anthon/"
 
 [aliyun]
 description.default = "Alibaba Cloud Open Source Mirror"
@@ -153,6 +168,16 @@ description.default = "Jilin University Open Source Mirror"
 description.zh_CN = "吉林大学开源镜像站"
 url = "https://mirrors.jlu.edu.cn/anthon/"
 
+[jlu4]
+description.default = "Jilin University Open Source Mirror (IPv4 only)"
+description.zh_CN = "吉林大学开源镜像站（仅 IPv4）"
+url = "https://mirrors4.jlu.edu.cn/anthon/"
+
+[jlu6]
+description.default = "Jilin University Open Source Mirror (IPv6 only)"
+description.zh_CN = "吉林大学开源镜像站（仅 IPv6）"
+url = "https://mirrors6.jlu.edu.cn/anthon/"
+
 [sjtug]
 description.default = "SJTUG OSS Mirror (Shanghai Jiao Tong University)"
 description.zh_CN = "上海交通大学 Linux 用户组软件源镜像服务"
@@ -163,15 +188,20 @@ description.default = "Nanyang Institute of Technology Open Source Mirror"
 description.zh_CN = "南阳理工学院开源镜像站"
 url = "https://mirror.nyist.edu.cn/anthon/"
 
+[nit4]
+description.default = "Nanyang Institute of Technology Open Source Mirror (IPv4 only)"
+description.zh_CN = "南阳理工学院开源镜像站（仅 IPv4）"
+url = "https://mirror4.nyist.edu.cn/anthon/"
+
+[nit6]
+description.default = "Nanyang Institute of Technology Open Source Mirror (IPv6 only)"
+description.zh_CN = "南阳理工学院开源镜像站（仅 IPv6）"
+url = "https://mirror6.nyist.edu.cn/anthon/"
+
 [sdu]
 description.default = "SDU Mirrors (Shandong University)"
 description.zh_CN = "山东大学开源镜像站"
 url = "https://mirrors.sdu.edu.cn/anthon/"
-
-[qlut]
-description.default = "QLUT OSS Mirrors (Qilu University of Technology)"
-description.zh_CN = "齐鲁工业大学开源软件镜像站"
-url = "https://mirrors.qlu.edu.cn/anthon/"
 
 [pku]
 description.default = "PKU OSS Mirrors (Peking University)"
@@ -181,7 +211,7 @@ url = "https://mirrors.pku.edu.cn/anthon/"
 [tencent]
 description.default = "Tencent Software Repository"
 description.zh_CN = "腾讯软件源"
-url = "https://mirrors.cloud.tencent.com/anthon/"
+url = "https://mirrors.tencent.com/anthon/"
 
 [sustech]
 description.default = "SUSTech Open Source Mirrors"
