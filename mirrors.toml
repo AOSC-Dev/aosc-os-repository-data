@@ -31,7 +31,7 @@ attributes = [ "full", "dual-stack", "tracking" ]
 url = "https://repo-us.aosc.io/anthon/"
 
 [repo-hk]
-description.default = "AOSC main repository (Aperture Science Limited, Hong Kong)"
+description.default = "AOSC main repository (Aperture Science Limited, Hong Kong S.A.R.)"
 description.zh_CN = "安同开源社区官方源（香港，由光圈网络托管）"
 location.region = "AS-CN-HK"
 location.code = "AS-CNHM"
@@ -212,7 +212,7 @@ description.zh_CN = "Fastly CDN 镜像"
 location.region = "GLOBAL"
 location.code = "GLOBAL"
 attributes = [ "cdn", "dual-stack" ]
-url = "https://aosc-repo.freetls.fastly.net/anthon/"
+url = "https://cdn.mirror.anthonos.org/anthon/"
 
 [nju]
 description.default = "Nanjing University OSS Mirror (NJU Mirror)"
@@ -320,7 +320,7 @@ url = "https://mirror6.nyist.edu.cn/anthon/"
 
 [sdu]
 description.default = "SDU Mirrors (Shandong University)"
-description.zh_CN = "山东大学开源镜像站"
+description.zh_CN = "山东大学镜像站"
 location.region = "AS-CN-SD"
 location.code = "CN-NORTH"
 attributes = [ "full", "dual-stack" ]
