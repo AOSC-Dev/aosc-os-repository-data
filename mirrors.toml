@@ -222,22 +222,6 @@ location.code = "CN-EAST"
 attributes = [ "full", "dual-stack", "tracking" ]
 url = "https://mirror.nju.edu.cn/anthon/"
 
-[nju4]
-description.default = "Nanjing University OSS Mirror (NJU Mirror, IPv4 only)"
-description.zh_CN = "南京大学开源镜像站 (NJU Mirror，仅 IPv4）"
-location.region = "AS-CN-JS"
-location.code = "CN-EAST"
-attributes = [ "full", "ipv4-only", "tracking" ]
-url = "https://ipv4.mirror.nju.edu.cn/anthon/"
-
-[nju6]
-description.default = "Nanjing University OSS Mirror (NJU Mirror, IPv6 only)"
-description.zh_CN = "南京大学开源镜像站 (NJU Mirror，仅 IPv6）"
-location.region = "AS-CN-JS"
-location.code = "CN-EAST"
-attributes = [ "full", "ipv6-only", "tracking" ]
-url = "https://ipv6.mirror.nju.edu.cn/anthon/"
-
 [xtom-estonia]
 description.default = "xTom Open Source Software Mirror (Estonia)"
 description.zh_CN = "xTom 开源镜像站（爱沙尼亚）"
@@ -245,14 +229,6 @@ location.region = "EU-EE-784"
 location.code = "EU-BALTIC"
 attributes = [ "full", "dual-stack" ]
 url = "https://mirror.xtom.ee/anthon/"
-
-[aliyun]
-description.default = "Alibaba Cloud Open Source Mirror"
-description.zh_CN = "阿里云开源镜像站"
-location.region = "GLOBAL"
-location.code = "GLOBAL"
-attributes = [ "full", "ipv4-only" ]
-url = "https://mirrors.aliyun.com/anthon/"
 
 [iscas]
 description.default = "ISCAS Open Source Mirror"
