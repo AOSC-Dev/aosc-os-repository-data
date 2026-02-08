@@ -31,8 +31,8 @@ attributes = [ "full", "dual-stack", "tracking" ]
 url = "https://repo-us.aosc.io/anthon/"
 
 [repo-hk]
-description.default = "AOSC main repository (Aperture Science Limited, Hong Kong S.A.R.)"
-description.zh_CN = "安同开源社区官方源（香港，由光圈网络托管）"
+description.default = "AOSC main repository (Nearoute Limited, Hong Kong S.A.R.)"
+description.zh_CN = "安同开源社区官方源（香港，由Nearoute托管）"
 location.region = "AS-CN-HK"
 location.code = "AS-CNHM"
 attributes = [ "full", "dual-stack", "tracking" ]
