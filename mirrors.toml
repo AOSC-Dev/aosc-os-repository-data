@@ -333,3 +333,11 @@ location.region = "AS-CN-GD"
 location.code = "CN-SOUTH"
 attributes = [ "full", "dual-stack", "tracking" ]
 url = "https://mirror.sysu.edu.cn/anthon/"
+
+[hust]
+description.default = "HUST Mirror"
+description.zh_CN = "华中科技大学开源软件镜像站"
+location.region = "AS-CN-HB"
+location.code = "CN-CENTR"
+attributes = [ "full", "dual-stack", "tracking" ]
+url = "https://mirrors.hust.edu.cn/anthon/"
