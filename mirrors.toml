@@ -339,5 +339,5 @@ description.default = "HUST Mirror"
 description.zh_CN = "华中科技大学开源软件镜像站"
 location.region = "AS-CN-HB"
 location.code = "CN-CENTR"
-attributes = [ "full", "dual-stack", "tracking" ]
+attributes = [ "full", "dual-stack" ]
 url = "https://mirrors.hust.edu.cn/anthon/"
