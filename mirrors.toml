@@ -341,3 +341,11 @@ location.region = "AS-CN-HB"
 location.code = "CN-CENTR"
 attributes = [ "full", "dual-stack" ]
 url = "https://mirrors.hust.edu.cn/anthon/"
+
+[aliyun]
+description.default = "Alibaba Cloud Open Source Mirror"
+description.zh_CN = "阿里云开源镜像站"
+location.region = "GLOBAL"
+location.code = "GLOBAL"
+attributes = [ "full", "ipv4-only" ]
+url = "https://mirrors.aliyun.com/anthon/"
