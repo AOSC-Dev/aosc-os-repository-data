@@ -23,8 +23,8 @@ attributes = [ "redir", "ipv6-only" ]
 url = "https://v6.repo.aosc.io/anthon/"
 
 [repo-us]
-description.default = "AOSC main repository (United States)"
-description.zh_CN = "安同开源社区官方源（美国）"
+description.default = "AOSC main repository (United States, sponsored by ifanr)"
+description.zh_CN = "安同开源社区官方源（美国，由爱范儿赞助）"
 location.region = "NA-US-CA"
 location.code = "NA-USWEST"
 attributes = [ "full", "dual-stack", "tracking" ]
@@ -32,7 +32,7 @@ url = "https://repo-us.aosc.io/anthon/"
 
 [repo-hk]
 description.default = "AOSC main repository (Nearoute Limited, Hong Kong S.A.R.)"
-description.zh_CN = "安同开源社区官方源（香港，由 Nearoute Limited 托管）"
+description.zh_CN = "安同开源社区官方源（香港特别行政区，由 Nearoute Limited 托管）"
 location.region = "AS-CN-HK"
 location.code = "AS-CNHM"
 attributes = [ "full", "dual-stack", "tracking" ]
