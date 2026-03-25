@@ -270,7 +270,7 @@ location.code = "CN-EAST"
 attributes = [ "full", "dual-stack" ]
 url = "https://mirror.sjtu.edu.cn/anthon/"
 
-[nit]
+[nyist]
 description.default = "Nanyang Institute of Technology Open Source Mirror"
 description.zh_CN = "南阳理工学院开源镜像站"
 location.region = "AS-CN-HA"
@@ -278,7 +278,7 @@ location.code = "CN-CENTR"
 attributes = [ "full", "dual-stack", "tracking" ]
 url = "https://mirror.nyist.edu.cn/anthon/"
 
-[nit4]
+[nyist4]
 description.default = "Nanyang Institute of Technology Open Source Mirror (IPv4 only)"
 description.zh_CN = "南阳理工学院开源镜像站（仅 IPv4）"
 location.region = "AS-CN-HA"
@@ -286,7 +286,7 @@ location.code = "CN-CENTR"
 attributes = [ "full", "ipv4-only", "tracking" ]
 url = "https://mirror4.nyist.edu.cn/anthon/"
 
-[nit6]
+[nyist6]
 description.default = "Nanyang Institute of Technology Open Source Mirror (IPv6 only)"
 description.zh_CN = "南阳理工学院开源镜像站（仅 IPv6）"
 location.region = "AS-CN-HA"
