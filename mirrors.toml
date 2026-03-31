@@ -99,7 +99,7 @@ description.default = "Tsinghua Open Source Mirror (TUNA)"
 description.zh_CN = "清华大学开源镜像站 (TUNA)"
 location.region = "AS-CN-BJ"
 location.code = "CN-NORTH"
-attributes = [ "full", "dual-stack", "tracking" ]
+attributes = [ "no-debug", "dual-stack" ]
 url = "https://mirrors.tuna.tsinghua.edu.cn/anthon/"
 
 [tuna4]
@@ -107,7 +107,7 @@ description.default = "Tsinghua Open Source Mirror (TUNA, IPv4 only)"
 description.zh_CN = "清华大学开源镜像站（TUNA，仅 IPv4）"
 location.region = "AS-CN-BJ"
 location.code = "CN-NORTH"
-attributes = [ "full", "ipv4-only", "tracking" ]
+attributes = [ "no-debug", "ipv4-only" ]
 url = "https://mirrors4.tuna.tsinghua.edu.cn/anthon/"
 
 [tuna6]
@@ -115,7 +115,7 @@ description.default = "Tsinghua Open Source Mirror (TUNA, IPv6 only)"
 description.zh_CN = "清华大学开源镜像站（TUNA，仅 IPv6）"
 location.region = "AS-CN-BJ"
 location.code = "CN-NORTH"
-attributes = [ "full", "ipv6-only", "tracking" ]
+attributes = [ "no-debug", "ipv6-only" ]
 url = "https://mirrors6.tuna.tsinghua.edu.cn/anthon/"
 
 [bfsu]
@@ -123,7 +123,7 @@ description.default = "Beijing Foreign Studies University OSS Mirror"
 description.zh_CN = "北京外国语大学开源镜像站"
 location.region = "AS-CN-BJ"
 location.code = "CN-NORTH"
-attributes = [ "full", "dual-stack" ]
+attributes = [ "no-debug", "dual-stack" ]
 url = "https://mirrors.bfsu.edu.cn/anthon/"
 
 [bfsu4]
@@ -131,7 +131,7 @@ description.default = "Beijing Foreign Studies University OSS Mirror (IPv4 only)
 description.zh_CN = "北京外国语大学开源镜像站（仅 IPv4）"
 location.region = "AS-CN-BJ"
 location.code = "CN-NORTH"
-attributes = [ "full", "ipv4-only" ]
+attributes = [ "no-debug", "ipv4-only" ]
 url = "https://mirrors4.bfsu.edu.cn/anthon/"
 
 [bfsu6]
@@ -139,7 +139,7 @@ description.default = "Beijing Foreign Studies University OSS Mirror (IPv6 only)
 description.zh_CN = "北京外国语大学开源镜像站（仅 IPv6）"
 location.region = "AS-CN-BJ"
 location.code = "CN-NORTH"
-attributes = [ "full", "ipv6-only" ]
+attributes = [ "no-debug", "ipv6-only" ]
 url = "https://mirrors6.bfsu.edu.cn/anthon/"
 
 [ustc]
@@ -275,7 +275,7 @@ description.default = "Nanyang Institute of Technology Open Source Mirror"
 description.zh_CN = "南阳理工学院开源镜像站"
 location.region = "AS-CN-HA"
 location.code = "CN-CENTR"
-attributes = [ "full", "dual-stack", "tracking" ]
+attributes = [ "no-debug", "dual-stack", "tracking" ]
 url = "https://mirror.nyist.edu.cn/anthon/"
 
 [nyist4]
@@ -283,7 +283,7 @@ description.default = "Nanyang Institute of Technology Open Source Mirror (IPv4 
 description.zh_CN = "南阳理工学院开源镜像站（仅 IPv4）"
 location.region = "AS-CN-HA"
 location.code = "CN-CENTR"
-attributes = [ "full", "ipv4-only", "tracking" ]
+attributes = [ "no-debug", "ipv4-only", "tracking" ]
 url = "https://mirror4.nyist.edu.cn/anthon/"
 
 [nyist6]
@@ -291,7 +291,7 @@ description.default = "Nanyang Institute of Technology Open Source Mirror (IPv6 
 description.zh_CN = "南阳理工学院开源镜像站（仅 IPv6）"
 location.region = "AS-CN-HA"
 location.code = "CN-CENTR"
-attributes = [ "full", "ipv6-only", "tracking" ]
+attributes = [ "no-debug", "ipv6-only", "tracking" ]
 url = "https://mirror6.nyist.edu.cn/anthon/"
 
 [sdu]
