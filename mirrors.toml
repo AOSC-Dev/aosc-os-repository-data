@@ -222,14 +222,6 @@ location.code = "CN-EAST"
 attributes = [ "full", "dual-stack", "tracking" ]
 url = "https://mirror.nju.edu.cn/anthon/"
 
-[xtom-estonia]
-description.default = "xTom Open Source Software Mirror (Estonia)"
-description.zh_CN = "xTom 开源镜像站（爱沙尼亚）"
-location.region = "EU-EE-784"
-location.code = "EU-BALTIC"
-attributes = [ "full", "dual-stack" ]
-url = "https://mirror.xtom.ee/anthon/"
-
 [iscas]
 description.default = "ISCAS Open Source Mirror"
 description.zh_CN = "中科院软件所开源镜像站"
@@ -341,3 +333,11 @@ location.region = "AS-CN-HB"
 location.code = "CN-CENTR"
 attributes = [ "full", "dual-stack" ]
 url = "https://mirrors.hust.edu.cn/anthon/"
+
+[aliyun]
+description.default = "Alibaba Cloud Open Source Mirror"
+description.zh_CN = "阿里云开源镜像"
+location.region = "GLOBAL"
+location.code = "GLOBAL"
+attributes = [ "no-images", "ipv4-only" ]
+url = "https://mirrors.aliyun.com/anthon/"
