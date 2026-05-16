@@ -4,6 +4,7 @@ description.zh_CN = "安同开源社区官方源（自动重定向）"
 location.region = "GLOBAL"
 location.code = "GLOBAL"
 attributes = [ "redir", "dual-stack" ]
+protocols = [ "https" ]
 url = "https://repo.aosc.io/anthon/"
 
 [origin4]
@@ -12,6 +13,7 @@ description.zh_CN = "安同开源社区官方源（自动重定向，仅 IPv4）
 location.region = "GLOBAL"
 location.code = "GLOBAL"
 attributes = [ "redir", "ipv4-only" ]
+protocols = [ "https" ]
 url = "https://v4.repo.aosc.io/anthon/"
 
 [origin6]
@@ -20,22 +22,25 @@ description.zh_CN = "安同开源社区官方源（自动重定向，仅 IPv6）
 location.region = "GLOBAL"
 location.code = "GLOBAL"
 attributes = [ "redir", "ipv6-only" ]
+protocols = [ "https" ]
 url = "https://v6.repo.aosc.io/anthon/"
 
 [repo-us]
 description.default = "AOSC main repository (United States, sponsored by ifanr)"
 description.zh_CN = "安同开源社区官方源（美国，由爱范儿赞助）"
 location.region = "NA-US-CA"
-location.code = "NA-USWEST"
+location.code = "USA-WEST"
 attributes = [ "full", "dual-stack", "tracking" ]
+protocols = [ "https", "rsync" ]
 url = "https://repo-us.aosc.io/anthon/"
 
 [repo-hk]
 description.default = "AOSC main repository (Nearoute Limited, Hong Kong S.A.R.)"
 description.zh_CN = "安同开源社区官方源（香港特别行政区，由 Nearoute Limited 托管）"
 location.region = "AS-CN-HK"
-location.code = "AS-CNHM"
+location.code = "CN-HMT"
 attributes = [ "full", "dual-stack", "tracking" ]
+protocols = [ "https", "rsync" ]
 url = "https://repo-hk.aosc.io/anthon/"
 
 [cernet]
@@ -44,6 +49,7 @@ description.zh_CN = "校园网联合镜像站"
 location.region = "AS-CN-UNKNOWN"
 location.code = "CN-UNKNOWN"
 attributes = [ "redir", "dual-stack" ]
+protocols = [ "https" ]
 url = "https://mirrors.cernet.edu.cn/anthon/"
 
 [geekpie]
@@ -52,6 +58,7 @@ description.zh_CN = "GeekPie（上海科技大学）开源镜像站"
 location.region = "AS-CN-SH"
 location.code = "CN-EAST"
 attributes = [ "full", "dual-stack" ]
+protocols = [ "https" ]
 url = "https://mirrors.shanghaitech.edu.cn/anthon/"
 
 [lzuoss]
@@ -60,6 +67,7 @@ description.zh_CN = "兰州大学开源社区镜像站"
 location.region = "AS-CN-GS"
 location.code = "CN-WEST"
 attributes = [ "full", "dual-stack" ]
+protocols = [ "https" ]
 url = "https://mirror.lzu.edu.cn/anthon/"
 
 [lzuoss4]
@@ -68,6 +76,7 @@ description.zh_CN = "兰州大学开源社区镜像站（仅 IPv4）"
 location.region = "AS-CN-GS"
 location.code = "CN-WEST"
 attributes = [ "full", "ipv4-only" ]
+protocols = [ "https" ]
 url = "https://mirror4.lzu.edu.cn/anthon/"
 
 [lzuoss6]
@@ -76,6 +85,7 @@ description.zh_CN = "兰州大学开源社区镜像站（仅 IPv6）"
 location.region = "AS-CN-GS"
 location.code = "CN-WEST"
 attributes = [ "full", "ipv6-only" ]
+protocols = [ "https" ]
 url = "https://mirror6.lzu.edu.cn/anthon/"
 
 [nluug]
@@ -84,6 +94,7 @@ description.zh_CN = "荷兰本地 Unix 用户组 (NLUUG) 开源镜像站"
 location.region = "EU-NL-UT"
 location.code = "EU-WEST"
 attributes = [ "full", "dual-stack" ]
+protocols = [ "https", "rsync" ]
 url = "https://ftp.nluug.nl/os/Linux/distr/anthon/"
 
 [tsukuba]
@@ -92,6 +103,7 @@ description.zh_CN = "筑波 WIDE 公共镜像服务"
 location.region = "AS-JP-08"
 location.code = "AS-JAPAN"
 attributes = [ "full", "dual-stack" ]
+protocols = [ "https", "rsync"]
 url = "https://ftp.tsukuba.wide.ad.jp/Linux/anthon/"
 
 [tuna]
@@ -100,6 +112,7 @@ description.zh_CN = "清华大学开源镜像站 (TUNA)"
 location.region = "AS-CN-BJ"
 location.code = "CN-NORTH"
 attributes = [ "no-debug", "dual-stack" ]
+protocols = [ "https", "rsync" ]
 url = "https://mirrors.tuna.tsinghua.edu.cn/anthon/"
 
 [tuna4]
@@ -108,6 +121,7 @@ description.zh_CN = "清华大学开源镜像站（TUNA，仅 IPv4）"
 location.region = "AS-CN-BJ"
 location.code = "CN-NORTH"
 attributes = [ "no-debug", "ipv4-only" ]
+protocols = [ "https", "rsync" ]
 url = "https://mirrors4.tuna.tsinghua.edu.cn/anthon/"
 
 [tuna6]
@@ -116,6 +130,7 @@ description.zh_CN = "清华大学开源镜像站（TUNA，仅 IPv6）"
 location.region = "AS-CN-BJ"
 location.code = "CN-NORTH"
 attributes = [ "no-debug", "ipv6-only" ]
+protocols = [ "https", "rsync" ]
 url = "https://mirrors6.tuna.tsinghua.edu.cn/anthon/"
 
 [bfsu]
@@ -124,6 +139,7 @@ description.zh_CN = "北京外国语大学开源镜像站"
 location.region = "AS-CN-BJ"
 location.code = "CN-NORTH"
 attributes = [ "no-debug", "dual-stack" ]
+protocols = [ "https", "rsync" ]
 url = "https://mirrors.bfsu.edu.cn/anthon/"
 
 [bfsu4]
@@ -132,6 +148,7 @@ description.zh_CN = "北京外国语大学开源镜像站（仅 IPv4）"
 location.region = "AS-CN-BJ"
 location.code = "CN-NORTH"
 attributes = [ "no-debug", "ipv4-only" ]
+protocols = [ "https", "rsync" ]
 url = "https://mirrors4.bfsu.edu.cn/anthon/"
 
 [bfsu6]
@@ -140,6 +157,7 @@ description.zh_CN = "北京外国语大学开源镜像站（仅 IPv6）"
 location.region = "AS-CN-BJ"
 location.code = "CN-NORTH"
 attributes = [ "no-debug", "ipv6-only" ]
+protocols = [ "https", "rsync" ]
 url = "https://mirrors6.bfsu.edu.cn/anthon/"
 
 [ustc]
@@ -148,6 +166,7 @@ description.zh_CN = "中国科学技术大学开源镜像站"
 location.region = "AS-CN-AH"
 location.code = "CN-EAST"
 attributes = [ "full", "dual-stack" ]
+protocols = [ "https", "rsync" ]
 url = "https://mirrors.ustc.edu.cn/anthon/"
 
 [ustc4]
@@ -156,6 +175,7 @@ description.zh_CN = "中国科学技术大学开源镜像站（仅 IPv4）"
 location.region = "AS-CN-AH"
 location.code = "CN-EAST"
 attributes = [ "full", "ipv4-only" ]
+protocols = [ "https", "rsync" ]
 url = "https://ipv4.mirrors.ustc.edu.cn/anthon/"
 
 [ustc6]
@@ -164,6 +184,7 @@ description.zh_CN = "中国科学技术大学开源镜像站（仅 IPv6）"
 location.region = "AS-CN-AH"
 location.code = "CN-EAST"
 attributes = [ "full", "ipv6-only" ]
+protocols = [ "https", "rsync" ]
 url = "https://ipv6.mirrors.ustc.edu.cn/anthon/"
 
 [staphlb]
@@ -172,6 +193,7 @@ description.zh_CN = "Staph. aureus 的自动负载均衡镜像（请勿作为唯
 location.region = "GLOBAL"
 location.code = "GLOBAL"
 attributes = [ "redir", "dual-stack" ]
+protocols = [ "https" ]
 url = "https://s.aureus.icu/aosc/config/chance-1/"
 
 [hit]
@@ -180,6 +202,7 @@ description.zh_CN = "哈尔滨工业大学开源镜像站"
 location.region = "AS-CN-HL"
 location.code = "CN-NORTHEAST"
 attributes = [ "full", "dual-stack" ]
+protocols = [ "https" ]
 url = "https://mirrors.hit.edu.cn/anthon/"
 
 [hit4]
@@ -188,6 +211,7 @@ description.zh_CN = "哈尔滨工业大学开源镜像站（仅 IPv4）"
 location.region = "AS-CN-HL"
 location.code = "CN-NORTHEAST"
 attributes = [ "full", "ipv4-only" ]
+protocols = [ "https" ]
 url = "https://mirrors4.hit.edu.cn/anthon/"
 
 [hit6]
@@ -196,14 +220,16 @@ description.zh_CN = "哈尔滨工业大学开源镜像站（仅 IPv6）"
 location.region = "AS-CN-HL"
 location.code = "CN-NORTHEAST"
 attributes = [ "full", "ipv6-only" ]
+protocols = [ "https" ]
 url = "https://mirrors6.hit.edu.cn/anthon/"
 
 [hexhu]
 description.default = "Public Mirrors of Open-Source Software Projects by Hexhu with ❤"
 description.zh_CN = "Hexhu 用❤发电的公共开源镜像站"
 location.region = "NA-US-CA"
-location.code = "NA-USWEST"
+location.code = "USA-WEST"
 attributes = [ "no-images", "dual-stack" ]
+protocols = [ "https", "rsync" ]
 url = "https://mirror.hu.fo/anthon/"
 
 [fastly]
@@ -212,6 +238,7 @@ description.zh_CN = "Fastly CDN 镜像"
 location.region = "GLOBAL"
 location.code = "GLOBAL"
 attributes = [ "cdn", "dual-stack" ]
+protocols = [ "https" ]
 url = "https://cdn.mirror.anthonos.org/anthon/"
 
 [nju]
@@ -220,6 +247,7 @@ description.zh_CN = "南京大学开源镜像站 (NJU Mirror)"
 location.region = "AS-CN-JS"
 location.code = "CN-EAST"
 attributes = [ "full", "dual-stack", "tracking" ]
+protocols = [ "https", "rsync" ]
 url = "https://mirror.nju.edu.cn/anthon/"
 
 [iscas]
@@ -228,6 +256,7 @@ description.zh_CN = "中科院软件所开源镜像站"
 location.region = "AS-CN-BJ"
 location.code = "CN-NORTH"
 attributes = [ "full", "dual-stack" ]
+protocols = [ "https" ]
 url = "https://mirror.iscas.ac.cn/anthon/"
 
 [jlu]
@@ -236,6 +265,7 @@ description.zh_CN = "吉林大学开源镜像站"
 location.region = "AS-CN-JL"
 location.code = "CN-NORTHEAST"
 attributes = [ "full", "dual-stack", "tracking" ]
+protocols = [ "https", "rsync" ]
 url = "https://mirrors.jlu.edu.cn/anthon/"
 
 [jlu4]
@@ -244,6 +274,7 @@ description.zh_CN = "吉林大学开源镜像站（仅 IPv4）"
 location.region = "AS-CN-JL"
 location.code = "CN-NORTHEAST"
 attributes = [ "full", "ipv4-only", "tracking" ]
+protocols = [ "https", "rsync" ]
 url = "https://mirrors4.jlu.edu.cn/anthon/"
 
 [jlu6]
@@ -252,6 +283,7 @@ description.zh_CN = "吉林大学开源镜像站（仅 IPv6）"
 location.region = "AS-CN-JL"
 location.code = "CN-NORTHEAST"
 attributes = [ "full", "ipv6-only", "tracking" ]
+protocols = [ "https", "rsync" ]
 url = "https://mirrors6.jlu.edu.cn/anthon/"
 
 [sjtug]
@@ -260,6 +292,7 @@ description.zh_CN = "上海交通大学 Linux 用户组软件源镜像服务"
 location.region = "AS-CN-SH"
 location.code = "CN-EAST"
 attributes = [ "full", "dual-stack" ]
+protocols = [ "https" ]
 url = "https://mirror.sjtu.edu.cn/anthon/"
 
 [nyist]
@@ -268,6 +301,7 @@ description.zh_CN = "南阳理工学院开源镜像站"
 location.region = "AS-CN-HA"
 location.code = "CN-CENTR"
 attributes = [ "no-debug", "dual-stack", "tracking" ]
+protocols = [ "https", "rsync" ]
 url = "https://mirror.nyist.edu.cn/anthon/"
 
 [nyist4]
@@ -276,6 +310,7 @@ description.zh_CN = "南阳理工学院开源镜像站（仅 IPv4）"
 location.region = "AS-CN-HA"
 location.code = "CN-CENTR"
 attributes = [ "no-debug", "ipv4-only", "tracking" ]
+protocols = [ "https", "rsync" ]
 url = "https://mirror4.nyist.edu.cn/anthon/"
 
 [nyist6]
@@ -284,6 +319,7 @@ description.zh_CN = "南阳理工学院开源镜像站（仅 IPv6）"
 location.region = "AS-CN-HA"
 location.code = "CN-CENTR"
 attributes = [ "no-debug", "ipv6-only", "tracking" ]
+protocols = [ "https", "rsync" ]
 url = "https://mirror6.nyist.edu.cn/anthon/"
 
 [sdu]
@@ -292,6 +328,7 @@ description.zh_CN = "山东大学镜像站"
 location.region = "AS-CN-SD"
 location.code = "CN-NORTH"
 attributes = [ "full", "dual-stack" ]
+protocols = [ "https" ]
 url = "https://mirrors.sdu.edu.cn/anthon/"
 
 [pku]
@@ -300,6 +337,7 @@ description.zh_CN = "北京大学开源镜像站"
 location.region = "AS-CN-BJ"
 location.code = "CN-NORTH"
 attributes = [ "full", "dual-stack" ]
+protocols = [ "https" ]
 url = "https://mirrors.pku.edu.cn/anthon/"
 
 [tencent]
@@ -308,6 +346,7 @@ description.zh_CN = "腾讯软件源"
 location.region = "GLOBAL"
 location.code = "GLOBAL"
 attributes = [ "no-images", "dual-stack" ]
+protocols = [ "https" ]
 url = "https://mirrors.tencent.com/anthon/"
 
 [sustech]
@@ -316,6 +355,7 @@ description.zh_CN = "南方科技大学开源镜像站"
 location.region = "AS-CN-GD"
 location.code = "CN-SOUTH"
 attributes = [ "full", "dual-stack" ]
+protocols = [ "https" ]
 url = "https://mirrors.sustech.edu.cn/anthon/"
 
 [sysu]
@@ -324,6 +364,7 @@ description.zh_CN = "中山大学开源软件镜像站"
 location.region = "AS-CN-GD"
 location.code = "CN-SOUTH"
 attributes = [ "full", "dual-stack", "tracking" ]
+protocols = [ "https" ]
 url = "https://mirror.sysu.edu.cn/anthon/"
 
 [hust]
@@ -332,12 +373,41 @@ description.zh_CN = "华中科技大学开源软件镜像站"
 location.region = "AS-CN-HB"
 location.code = "CN-CENTR"
 attributes = [ "full", "dual-stack" ]
+protocols = [ "https" ]
 url = "https://mirrors.hust.edu.cn/anthon/"
 
-[aliyun]
-description.default = "Alibaba Cloud Open Source Mirror"
-description.zh_CN = "阿里云开源镜像"
-location.region = "GLOBAL"
-location.code = "GLOBAL"
-attributes = [ "no-images", "ipv4-only" ]
-url = "https://mirrors.aliyun.com/anthon/"
+[hernet]
+description.default = "HERNET Mirror"
+description.zh_CN = "河南省教育科研网镜像站"
+location.region = "AS-CN-HA"
+location.code = "CN-CENTR"
+attributes = [ "no-debug", "dual-stack", "tracking" ]
+protocols = [ "https", "rsync" ]
+url = "https://mirrors.ha.edu.cn/anthon/"
+
+[hernet6]
+description.default = "HERNET Mirror (IPv6 only)"
+description.zh_CN = "河南省教育科研网镜像站（仅 IPv6）"
+location.region = "AS-CN-HA"
+location.code = "CN-CENTR"
+attributes = [ "no-debug", "ipv6-only", "tracking" ]
+protocols = [ "https", "rsync" ]
+url = "https://mirrors6.ha.edu.cn/anthon/"
+
+[hernet4]
+description.default = "HERNET Mirror (IPv4 only)"
+description.zh_CN = "河南省教育科研网镜像站（仅 IPv4）"
+location.region = "AS-CN-HA"
+location.code = "CN-CENTR"
+attributes = [ "no-debug", "ipv4-only", "tracking" ]
+protocols = [ "https", "rsync" ]
+url = "https://mirrors4.ha.edu.cn/anthon/"
+
+[zju]
+description.default = "ZJU Mirror"
+description.zh_CN = "浙江大学开源软件镜像站"
+location.region = "AS-CN-ZJ"
+location.code = "CN-EAST"
+attributes = [ "full", "dual-stack" ]
+protocols = [ "https" ]
+url = "https://mirrors.zju.edu.cn/anthon/"
