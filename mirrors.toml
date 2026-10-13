@@ -411,3 +411,12 @@ location.code = "CN-EAST"
 attributes = [ "no-debug", "dual-stack" ]
 protocols = [ "https" ]
 url = "https://mirrors.zju.edu.cn/anthon/"
+
+[loongfansru]
+description.default = "Loongfans.RU OSS Mirror (Russia)"
+description.zh_CN = "Loongfans.RU 开源镜像站（俄罗斯）"
+location.region = "EU-RU-MOW"
+location.code = "CIS-WEST"
+attributes = [ "full", "ipv4-only" ]
+protocols = [ "https" ]
+url = "https://mirrors.loongfans.ru/anthon/"
